@@ -25,5 +25,5 @@ DPFNet network structure in **./model** folder. The specific training code will 
 
 ### Weight
 Link to the weights file we trained on the LOL dataset: https://pan.baidu.com/s/1Y8xQdT9377b-3dzuE-MmVA 
-提取码：5l5u
+password：5l5u
 
